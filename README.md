@@ -18,7 +18,7 @@ Las tablas contienen información de los datos de covid general y covid positivo
 Por otra parte, en el gráfico de barras que muestra la cantidad de casos positivos nuevos por día, se encontro que el mayor pico de casos ocurrio entre la ultima semana de enero y la primera de febrero del 2022.
 Con respecto al grafico que muestra la evolución a través del tiempo de los casos positivos acumulados de hombres y de los casos positivos acumulados de mujeres, se encontro que hay una tendencia a haber mayor cantidad de mujeres contagiadas.
 En contraste, el gráfico de líneas que muestra la evolución a través del tiempo de los casos positivos acumulados de menores, los casos positivos acumulados de adultos y de los casos positivos acumulados de adultos mayores, muestra que hay mayor contagio entre adultos que entre las otras dos categorias. Finalmente, todas estas interpretaciones se condensas en las relaciones jerarquicas que ofrece el grafico Sunburst, donde se muestra las relaciones jerarquicas de cantidades de casos positivos por provincias y cantones.
-Estos productos pueden ser observados y analizados a traves del enlace de [NBViewer]()
+Estos productos pueden ser observados y analizados a traves del enlace de [NBViewer](https://nbviewer.org/github/JluisG99/Tarea2_covid/blob/345e90a6e8e949a3f1d7741c07e5e9706ba07e43/Tarea2.ipynb)
 
 ## Fuente de los datos:
 Los datos utilizados para la realizacion de este informe son de acceso libre, y fueron obtenidos del [Ministerio de Salud](https://oges.ministeriodesalud.go.cr/)
